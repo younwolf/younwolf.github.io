@@ -1,0 +1,24 @@
+permalink: /:year/:month/:day/:title.html
+markdown: kramdown
+highlighter: pygments
+
+kramdown:
+  input: GFM
+
+# 作者信息
+author: 
+  name: 77.
+  email: 951203598@qq.com
+  link: http://wpa.qq.com/msgrd?v=3&uin=951203598&site=qq&menu=yes
+  weibo: http://weibo.com/u/3750275877
+  github: http://github.com/18312847646
+
+# 站点信息
+title: 贔!忍!震!狡!
+description: 77.|贔!忍!震!狡!
+url: http://951203598.cn
+rss_url: /pages/atom.xml
+
+# avatar头像及Favicon
+avatar: /assets/images/SX.png
+favicon: /assets/images/favicon.png
